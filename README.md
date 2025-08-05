@@ -1,3 +1,4 @@
 # SrijanGithub
-This is a github demo
-Im a BTech Undergrad
+This is a github demo.
+<br>
+Im a BTech Undergrad.
